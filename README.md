@@ -1,9 +1,9 @@
 # micro-trackjs
 
 <p>
-    <a href="https://github.com/badges/shields/graphs/contributors" alt="build">
+    <a href="https://github.com/tiagogm/micro-trackjs/actions?query=workflow%3Abuild" alt="build">
         <img src="https://github.com/tgmorais/micro-trackjs/workflows/build/badge.svg" /></a>
-            <a href="https://github.com/badges/shields/graphs/contributors" alt="publish">
+            <a href="https://github.com/tiagogm/micro-trackjs/actions?query=workflow%3Apublish" alt="publish">
         <img src="https://github.com/tgmorais/micro-trackjs/workflows/publish/badge.svg" /></a>
 </p>
 
