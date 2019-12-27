@@ -1,6 +1,6 @@
 {
   "name": "micro-trackjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple wrapper to send micro errors to TrackJS",
   "keywords": [
     "micro",
@@ -18,7 +18,7 @@
     "test": "jest --coverage --silent",
     "build": "cross-env BABEL_ENV=production babel src --out-dir lib",
     "prebuild": "npm run clean && npm test",
-    "prepublish": "npm run clean && npm build"
+    "prepublish": "npm run clean && npm run build"
   },
   "jest": {
     "testEnvironment": "node"
