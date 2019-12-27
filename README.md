@@ -5,6 +5,9 @@
         <img src="https://github.com/tgmorais/micro-trackjs/workflows/build/badge.svg" /></a>
             <a href="https://github.com/tiagogm/micro-trackjs/actions?query=workflow%3Apublish" alt="publish">
         <img src="https://github.com/tgmorais/micro-trackjs/workflows/publish/badge.svg" /></a>
+            <a href="https://www.npmjs.com/package/micro-trackjs" alt="npm package link">
+        <img src="https://img.shields.io/npm/v/micro-trackjs/latest?label=micro-trackjs&style=flat-square" /></a>
+        
 </p>
 
 `micro-trackjs` allows you to send [`micro`](https://github.com/zeit/micro) errors to [TrackJS](https://trackjs.com).
