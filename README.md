@@ -2,7 +2,9 @@
 
 <p>
     <a href="https://github.com/badges/shields/graphs/contributors" alt="build">
-        <img src="https://github.com/tgmorais/micro-trackjs/workflows/micro-trackjs test%20build/badge.svg" /></a>
+        <img src="https://github.com/tgmorais/micro-trackjs/workflows/build/badge.svg" /></a>
+            <a href="https://github.com/badges/shields/graphs/contributors" alt="publish">
+        <img src="https://github.com/tgmorais/micro-trackjs/workflows/publish/badge.svg" /></a>
 </p>
 
 `micro-trackjs` allows you to send [`micro`](https://github.com/zeit/micro) errors to [TrackJS](https://trackjs.com).

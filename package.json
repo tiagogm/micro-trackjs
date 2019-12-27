@@ -17,7 +17,8 @@
     "lint": "eslint . --fix",
     "test": "jest --coverage --silent",
     "build": "cross-env BABEL_ENV=production babel src --out-dir lib",
-    "prebuild": "npm run clean && npm test"
+    "prebuild": "npm run clean && npm test",
+    "prepublish": "npm run clean && npm build"
   },
   "jest": {
     "testEnvironment": "node"

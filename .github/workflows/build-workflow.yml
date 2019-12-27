@@ -1,4 +1,4 @@
-name: micro-trackjs test build
+name: build
 
 on: [push]
 
